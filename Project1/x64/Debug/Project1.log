@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\MailSlots.h(15,65): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\Source.cpp(105,65): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\Source.cpp(177,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\Source.cpp(258,65): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\Source.cpp(275,26): warning C4566: character represented by universal-character-name '\uFFFD' cannot be represented in the current code page (1251)
+C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\Source.cpp(320,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\voinv\Desktop\Polytechnik\OS\Lab 9\Project1\x64\Debug\Project1.exe
